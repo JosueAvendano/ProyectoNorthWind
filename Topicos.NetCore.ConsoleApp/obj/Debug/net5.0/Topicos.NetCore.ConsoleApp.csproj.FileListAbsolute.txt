@@ -1,0 +1,5 @@
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.ConsoleApp\obj\Debug\net5.0\Topicos.NetCore.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.ConsoleApp\obj\Debug\net5.0\Topicos.NetCore.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.ConsoleApp\obj\Debug\net5.0\Topicos.NetCore.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.ConsoleApp\obj\Debug\net5.0\Topicos.NetCore.ConsoleApp.AssemblyInfo.cs
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.ConsoleApp\obj\Debug\net5.0\Topicos.NetCore.ConsoleApp.csproj.CoreCompileInputs.cache

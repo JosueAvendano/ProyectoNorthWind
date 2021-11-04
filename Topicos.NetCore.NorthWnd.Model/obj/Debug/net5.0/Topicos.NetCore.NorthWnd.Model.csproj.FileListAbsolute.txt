@@ -1,0 +1,15 @@
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\bin\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.deps.json
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\bin\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.dll
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\bin\Debug\net5.0\ref\Topicos.NetCore.NorthWnd.Model.dll
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\bin\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.pdb
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\obj\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.csproj.AssemblyReference.cache
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\obj\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\obj\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.AssemblyInfoInputs.cache
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\obj\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.AssemblyInfo.cs
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\obj\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.csproj.CoreCompileInputs.cache
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\obj\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.dll
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\obj\Debug\net5.0\ref\Topicos.NetCore.NorthWnd.Model.dll
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\obj\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.pdb
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\bin\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.runtimeconfig.json
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\bin\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.runtimeconfig.dev.json
+C:\Users\javen\source\repos\ProyectoNorthWind\Topicos.NetCore.NorthWnd.Model\obj\Debug\net5.0\Topicos.NetCore.NorthWnd.Model.genruntimeconfig.cache
